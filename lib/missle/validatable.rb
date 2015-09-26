@@ -1,6 +1,6 @@
 require 'uber/inheritable_attr'
 require 'reform'
-require 'reform/form/active_model/validations'
+require 'reform/form/active_model/model_validations'
 
 module Missle
   module Validatable
