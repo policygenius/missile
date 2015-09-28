@@ -28,7 +28,6 @@ module Missle
 
     def error(message, error = nil)
       errors.messages << message
-      Raven.capture_exception(error) if error
     end
   end
 end
