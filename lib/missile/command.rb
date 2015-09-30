@@ -1,7 +1,7 @@
 require 'wisper'
 require 'ostruct'
 
-module Missle
+module Missile
   class Command
     include Wisper::Publisher
 
