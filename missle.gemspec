@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Command abstraction}
   spec.description   = %q{Command abstraction}
   spec.homepage      = "http://github.com/gangster/missile"
+  spec.licenses    = ['MIT']
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
